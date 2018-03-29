@@ -1,0 +1,7 @@
+Account Number-4479
+Password-password
+Name-Prashant
+Phone Number-9811588521
+Date of birth-04/06/1998
+Starting Balance-50000
+Current Balance-50000
